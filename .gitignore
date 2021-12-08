@@ -1,0 +1,9 @@
+
+!node_modules/express-gateway/lib/gateway/index.js
+node_modules
+package-lock.json
+build
+npm-debug.log
+!public
+!.env
+.DS_Store 
